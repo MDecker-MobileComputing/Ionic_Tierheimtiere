@@ -9,4 +9,9 @@ export class Tab3Page {
 
   constructor() {}
 
+  ionViewDidEnter() {
+
+    console.log( "Tab 3 (Papageien) ist geöffnet worden." );
+  }
+
 }
