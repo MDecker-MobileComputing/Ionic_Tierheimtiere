@@ -1,0 +1,7 @@
+{
+  "name": "TierheimTiere",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
