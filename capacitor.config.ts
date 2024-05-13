@@ -1,8 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'TierheimTiere',
+  appId: 'de.mide.ionic.tierheimtiere',
+  appName: 'Tierheim-Tiere',
   webDir: 'www'
 };
 
