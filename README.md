@@ -18,7 +18,6 @@ See the [LICENSE file](LICENSE.md) for license rights and limitations (BSD 3-Cla
 <br>
 
 In folder [src/assets/](src/assets) this Git repository contains some animal pictures published on [pixabay.com](https://pixabay.com/).
-The photographer of the animal pictures are mentioned on the bottom of each of the tabs shown by the application.
-
+The photographers of the animal pictures are mentioned on the bottom of each of the tabs shown by the application.
 
 <br>
