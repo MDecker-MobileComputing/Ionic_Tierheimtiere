@@ -13,7 +13,7 @@ This repository contains an [Ionic app](https://ionicframework.com/) with [Angul
 
 <br>
 
-![Screenshot](screenshot_1.png)
+![Screenshot](screenshot.png)
 
 <br>
 
