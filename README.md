@@ -9,6 +9,20 @@ This repository contains an [Ionic app](https://ionicframework.com/) with [Angul
 
 ----
 
+## Screenshot ##
+
+<br>
+
+![Screenshot](screenshot_1.png)
+
+<br>
+
+The screenshot shows part of [photo no 7393413](https://pixabay.com/photos/parrot-bird-perched-animal-7393413/) on pixabay.com by [Oto_Boxler](https://pixabay.com/users/oto_boxler-26162471/).
+
+<br>
+
+----
+
 ## License ##
 
 <br>
