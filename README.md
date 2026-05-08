@@ -2,8 +2,8 @@
 
 <br>
 
-This repository contains an [Ionic app](https://ionicframework.com/) with [Angular](https://angular.io/) that demonstrates how
-[ion-tabs](https://ionicframework.com/docs/api/tabs) can be used.
+Dieses Repository enthält eine [Ionic-App](https://ionicframework.com/) mit [Angular](https://angular.io/), die demonstriert, wie
+[ion-tabs](https://ionicframework.com/docs/api/tabs) verwendet werden können.
 
 <br>
 
@@ -17,7 +17,8 @@ This repository contains an [Ionic app](https://ionicframework.com/) with [Angul
 
 <br>
 
-The screenshot shows part of [photo no 7393413](https://pixabay.com/photos/parrot-bird-perched-animal-7393413/) on pixabay.com by [Oto_Boxler](https://pixabay.com/users/oto_boxler-26162471/).
+Der Screenshot zeigt einen Teil von [Foto Nr. 7393413](https://pixabay.com/photos/parrot-bird-perched-animal-7393413/) auf pixabay.com 
+von [Oto_Boxler](https://pixabay.com/users/oto_boxler-26162471/).
 
 <br>
 
@@ -31,7 +32,7 @@ See the [LICENSE file](LICENSE.md) for license rights and limitations (BSD 3-Cla
 
 <br>
 
-In folder [src/assets/](src/assets) this Git repository contains some animal pictures published on [pixabay.com](https://pixabay.com/).
-The photographers of the animal pictures are mentioned on the bottom of each of the tabs shown by the application.
+Im Ordner [src/assets/](src/assets) enthält dieses Git-Repository einige Tierbilder, die auf [pixabay.com](https://pixabay.com/) veröffentlicht wurden.  
+Die Fotografen der Tierbilder werden am unteren Rand jeder von der Anwendung angezeigten Registerkarte erwähnt.
 
 <br>
